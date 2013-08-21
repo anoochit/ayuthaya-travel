@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="place">
+        <item>Google HQ</item>
+        <item>SIPA</item>
+    </string-array>
+    <string-array name="place1">
+        <item name="title">Google</item>
+        <item name="geo">37.422287,-122.083878</item>
+    </string-array>
+    <string-array name="place2">
+        <item>SIPA</item>
+        <item name="geo">13.882532,100.564722</item>
+    </string-array>
+
+</resources>
